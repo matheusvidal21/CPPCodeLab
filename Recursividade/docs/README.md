@@ -40,7 +40,7 @@ O cálculo do fatorial e a determinação do maior número primo devem ser reali
 Por exemplo, se o valor lido for 3, o fatorial de 3 é 6 e o maior número primo anterior a 6 é 5. Se o valor lido for 5, o fatorial de 5 é 120 e o maior número primo anterior a 120 é 113. O programa deve fornecer o resultado correto para qualquer valor inteiro fornecido.
 - Acesse a solução [aqui](../Q5/).
 
-# Resumo das soluções
+# 📋 Resumo das soluções
 
 ## Solução 1 - Soma dos primeiros n cubos:
 A solução implementa uma função recursiva chamada somaDosCubos que calcula a soma dos primeiros n cubos. A função utiliza a recursividade para somar o cubo do número atual com a chamada recursiva para o próximo número. O caso base é quando n é igual a 1, onde a função retorna 1. A função principal lê um número n e imprime a soma dos n primeiros cubos.
