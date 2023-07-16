@@ -1,5 +1,3 @@
-
-
 <img src="Recursividade/docs/cppcodelab.png" alt="Logo C++" height="150" width="600">
 
 Minhas soluções para exercícios em C++. Compartilho aqui minha abordagem para exercícios e projetos, demonstrando meu progresso e habilidades na linguagem de programação. Esse repositório aborda assuntos diversos, como Recursividade, Programação Orientada a Objetos, Alocação Dinâmica, Manipulação de Arquivos, e muito mais.
@@ -7,19 +5,19 @@ Minhas soluções para exercícios em C++. Compartilho aqui minha abordagem para
 # 📚 Conteúdo
 O repositório está organizado da seguinte forma:
 
-- [`Algoritmos de Ordenação`](Algoritmos%20de%20Ordenação): Implementações de algoritmos como o Bubble Sort, Insertion Sort, Selection Sort, Merge Sort, entre outros, para organizar dados em ordem específica.
+- [`Algoritmos de ordenação`](Algoritmos%20de%20ordenação): Implementações de algoritmos como o Bubble Sort, Insertion Sort, Selection Sort, Merge Sort, entre outros, para organizar dados em ordem específica.
 
-- [`Busca Binária`](Busca%20Binária): Implementação, de forma recursiva e iterativa, do algoritmo de busca binária, uma técnica de busca eficiente em uma coleção ordenada de elementos.
+- [`Busca binária`](Busca%20binária): Implementação, de forma recursiva e iterativa, do algoritmo de busca binária, uma técnica de busca eficiente em uma coleção ordenada de elementos.
 
 - [`Classes e Alocação Dinâmica`](Classes%20e%20Alocação%20Dinâmica): Utilização de classes em C++ para modelar objetos e realizar alocação de memória dinamicamente.
 
 - [`Herança e Classe Abstrata`](Herança%20e%20Classe%20Abstrata): Utilização do conceito de herança para estabelecer relações entre classes, permitindo a criação de hierarquias de objetos, e o uso de classes abstratas para fornecer funcionalidades comuns e estabelecer contratos para as classes derivadas.
 
-- [`Manipulação de Arquivos`](Manipulação%20de%20Arquivos): Interação com arquivos, como leitura, escrita e manipulação de dados, para realizar operações de entrada e saída.
+- [`Manipulação de arquivos`](Manipulação%20de%20arquivos): Interação com arquivos, como leitura, escrita e manipulação de dados, para realizar operações de entrada e saída.
 
 - [`Programação Orientada a Objetos`](Programação%20Orientada%20a%20Objetos): Abordagem de programação que utiliza objetos, classes, herança e encapsulamento para organizar e estruturar o código.
 
-- [`Recuperação de Dados 'bin'`](Recuperação%20de%20Dados%20'bin'): Manipulação de arquivos binários para armazenar e recuperar informações de forma eficiente.
+- [`Recuperação de dados 'bin'`](Recuperação%20de%20dados%20'bin'): Manipulação de arquivos binários para armazenar e recuperar informações de forma eficiente.
 
 - [`Recursividade`](Recursividade/): Utilização de chamadas de função recursivas para solucionar problemas, onde uma função chama a si mesma até que uma condição de parada seja alcançada.
 
