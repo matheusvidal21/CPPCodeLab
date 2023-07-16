@@ -1,0 +1,11 @@
+10
+A1  Ana  A  800.00
+A2  Beatriz  A  800.50
+A3  Bruno  A  1000.00
+B1  Carla  B  1000.50
+B2  Daniel  B  2000.00
+B3  Davi  B  5000.00
+B4  Elen  B  5500.00
+C1  Felipe  C  1000.00
+C2  Gabi  C  5000.00
+C3  Marta  C  2400.00 
