@@ -145,4 +145,4 @@ static int partition(T list[], int left, int right) {
 A função partition escolhe um pivô e rearranja os elementos da lista de forma que todos os elementos menores que o pivô estejam à sua esquerda e todos os elementos maiores estejam à sua direita. Em seguida, retorna o índice do pivô após a partição. A função quickSort chama recursivamente a si mesma para ordenar as partes antes e depois do pivô.
 
 
-### Essas são apenas explicações básicas de cada algoritmo de ordenação. Para uma compreensão mais completa e detalhada de cada algoritmo, é recomendável estudar mais a fundo seus conceitos e analisar o código fornecido com atenção.
+#### Essas são apenas explicações básicas de cada algoritmo de ordenação. Para uma compreensão mais completa e detalhada de cada algoritmo, é recomendável estudar mais a fundo seus conceitos e analisar o código fornecido com atenção.
