@@ -3,9 +3,9 @@
 Nesta seção, implementei soluções para desafios de diferentes conceitos e tópicos, incluindo Recursividade, Git, Alocação Dinâmica e POO. Os desafios estão divididos em três questões distintas. Cada questão possui sua própria descrição e detalhes de implementação.
 
 ## Desafios propostos
-- 🧮 [Questão 1](#questão1-sequência-tribonacci) - Sequência Tribonacci.
-- 🐙 [Questão 2](#questão-2-git-na-prática) - Git na Prática.
-- 👨‍🎓 [Questão 3](#questão-3-turma-e-alunos) - Turma e Alunos.
+- 🧮 [Questão 1](#-questão-1---sequência-tribonacci) - Sequência Tribonacci.
+- 🐙 [Questão 2](#-questão-2---git-na-prática) - Git na Prática.
+- 👨‍🎓 [Questão 3](#-questão-3---turma-e-alunos) - Turma e Alunos.
 
 
 ## 🧮 Questão 1 - Sequência Tribonacci:
