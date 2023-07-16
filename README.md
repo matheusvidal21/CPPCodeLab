@@ -64,18 +64,18 @@ Essas lições e conquistas ao longo da minha jornada em C++ me permitiram aprim
 
 
 # 📖 Como utilizar
-#### 1. Clonar o repositório: Comece clonando este repositório em sua máquina local usando o seguinte comando:
+1. Clonar o repositório: Comece clonando este repositório em sua máquina local usando o seguinte comando:
 ```
 https://github.com/matheusvidal21/CPPCodeLab.git
 ```
 
-#### 2. Acessar a seção de exercícios: Navegue até a pasta correspondente aos exercícios de seu interesse.
+2. Acessar a seção de exercícios: Navegue até a pasta correspondente aos exercícios de seu interesse.
 
-#### 3. Visualizar a solução: Abra o arquivo de código-fonte da solução em um ambiente de desenvolvimento integrado (IDE) de sua preferência.
+3. Visualizar a solução: Abra o arquivo de código-fonte da solução em um ambiente de desenvolvimento integrado (IDE) de sua preferência.
 
-#### 4. Executar o código: Compile e execute o código para ver a solução em ação. Certifique-se de ter um ambiente configurado para compilar e executar programas em C++.
+4. Executar o código: Compile e execute o código para ver a solução em ação. Certifique-se de ter um ambiente configurado para compilar e executar programas em C++.
 
-#### 5. Explorar outras soluções: Continue explorando as diferentes pastas para conferir minhas soluções para outros exercícios.
+5. Explorar outras soluções: Continue explorando as diferentes pastas para conferir minhas soluções para outros exercícios.
 
 # 🤝 Contribuições
 Este repositório é pessoal e destinado ao meu próprio aprendizado de C++ e Programação Orientada a Objetos. No entanto, contribuições são sempre bem-vindas! Se você tem soluções diferentes ou melhorias para os exercícios existentes, fique à vontade para contribuir.
