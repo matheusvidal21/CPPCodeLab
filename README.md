@@ -1,6 +1,6 @@
 <img src="Recursividade/docs/cppcodelab.png" alt="Logo C++" height="150" width="600">
 
-Minhas soluções para exercícios em C++. Compartilho aqui minha abordagem para exercícios e projetos, demonstrando meu progresso e habilidades na linguagem de programação. Esse repositório aborda assuntos diversos, como Recursividade, Programação Orientada a Objetos, Alocação Dinâmica, Manipulação de Arquivos, e muito mais.
+O repositório CPPCodeLab é um espaço dedicado para armazenar e compartilhar todo o meu aprendizado na jornada de programação em C++. Nele, você encontrará uma ampla variedade de desafios e projetos resolvidos, abrangendo conceitos essenciais como Programação Orientada a Objetos (POO), alocação dinâmica de memória, recursividade, manipulação de arquivos, busca binária, algoritmos de ordenação e muito mais. Este repositório serve como um registro do meu progresso e como um recurso valioso para revisar e fortalecer minhas habilidades em C++, além de compartilhar meu conhecimento com outros programadores.
 
 # 📚 Conteúdo
 O repositório está organizado da seguinte forma:
@@ -21,7 +21,7 @@ O repositório está organizado da seguinte forma:
 
 - [`Recursividade`](Recursividade/): Utilização de chamadas de função recursivas para solucionar problemas, onde uma função chama a si mesma até que uma condição de parada seja alcançada.
 
-# 🧠 O que eu aprendi ao longo da minha jornada em C++
+# 🧠 Aprendizado na minha jornada em C++
 Durante minha jornada em C++ e Programação Orientada a Objetos, eu adquiri um conjunto valioso de habilidades e conhecimentos. Algumas das principais lições que aprendi ao longo do caminho incluem:
 
 - A importância de entender os conceitos fundamentais da linguagem, como sintaxe, tipos de dados, estruturas de controle e manipulação de funções.
