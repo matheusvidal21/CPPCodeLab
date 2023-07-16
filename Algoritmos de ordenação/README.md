@@ -2,11 +2,11 @@
 
 Esta seção contém implementações de algoritmos de ordenação em C++. Acesse a implementação [aqui](ordenacao.hpp). Os seguintes algoritmos estão disponíveis:
 
-- Bubble Sort (crescente)
-- Selection Sort (decrescente)
-- Merge Sort (crescente)
-- Insertion Sort (crescente)
-- Quick Sort (crescente)
+- (Bubble Sort)[#bubble-sort]
+- (Selection Sort)[#selection-sort] 
+- (Merge Sort)[#merge-sort]
+- (Insertion Sort)[#insertion-sort] 
+- (Quick Sort)[#quick-sort]
 
 ## Bubble Sort
 O Bubble Sort é um algoritmo simples de ordenação que percorre a lista várias vezes, comparando pares adjacentes e fazendo trocas se estiverem na ordem errada. O processo é repetido até que a lista esteja completamente ordenada. A complexidade do Bubble Sort é O(n^2), onde "n" é o tamanho da lista. Isso significa que o tempo de execução aumenta rapidamente à medida que o tamanho da lista aumenta. A implementação do Bubble Sort no código fornecido utiliza dois loops aninhados para percorrer a lista e realizar as trocas quando necessário:
