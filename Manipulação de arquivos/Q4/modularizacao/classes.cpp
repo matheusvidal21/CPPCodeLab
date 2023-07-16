@@ -1,7 +1,3 @@
-/**
- * @file classes.cpp
- * @brief Arquivo para desenvolver as classes
- */
 #include "classes.h"
 
 //Métodos getters e setters
