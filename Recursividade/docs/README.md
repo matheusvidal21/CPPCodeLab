@@ -3,11 +3,11 @@
 Este seção contém soluções para desafios que envolvem o uso de recursividade. A recursividade é um conceito fundamental na programação, onde uma função é capaz de chamar a si mesma repetidamente até atingir uma condição de parada.
 
 # Desafios propostos
-- 🔢 [Desafio 1](#desafio-1-soma-dos-primeiros-n-cubos): Soma dos primeiros n cubos
-- 🔍 [Desafio 2](#desafio-2-menor-elemento-em-um-vetor): Menor elemento em um vetor
-- 🎵 [Desafio 3](#desafio-3-cálculo-do-número-harmônico): Cálculo do número harmônico
-- 🔢 [Desafio 4](#desafio-4-contagem-de-dígitos-em-um-número): Contagem de dígitos em um número
-- 🔄 [Desafio 5](#desafio-5-maior-número-primo-anterior-ao-fatorial): Maior número primo anterior ao fatorial
+- 🔢 [Desafio 1](#-desafio-1---soma-dos-primeiros-n-cubos): Soma dos primeiros n cubos
+- 🔍 [Desafio 2](#-desafio-2---menor-elemento-em-um-vetor): Menor elemento em um vetor
+- 🎵 [Desafio 3](#-desafio-3---cálculo-do-número-harmônico): Cálculo do número harmônico
+- 🔢 [Desafio 4](#-desafio-4---contagem-de-dígitos-em-um-número): Contagem de dígitos em um número
+- 🔄 [Desafio 5](#-desafio-5---maior-número-primo-anterior-ao-fatorial): Maior número primo anterior ao fatorial
 
 ## 🔢 Desafio 1 - Soma dos primeiros n cubos:
 Implemente uma função recursiva que calcule a soma dos primeiros n cubos. A fórmula para a soma dos cubos é dada por:
