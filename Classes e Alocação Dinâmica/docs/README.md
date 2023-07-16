@@ -57,10 +57,12 @@ Implemente a classe Turma usando alocação dinâmica para armazenar a lista de 
 
 Para visualizar a implementação dessa questão consulte a pasta [Q3](../Q3).
 
-## Solução 1 - Sequência Tribonacci:
+## 📋 Soluções dos desafios
+
+### Solução 1 - Sequência Tribonacci:
 Na questão 1, aprendi a implementar as versões iterativa e recursiva do algoritmo da sequência de Tribonacci. Na solução iterativa, usei variáveis para armazenar os valores dos últimos três termos da sequência e um loop para calcular o próximo termo somando os três termos anteriores. Na solução recursiva, criei uma função que verifica os casos base da sequência e faz chamadas recursivas para calcular o valor do N-ésimo termo.
 
-## Solução 3 - Turma e Alunos:
+### Solução 3 - Turma e Alunos:
 Na questão 3, aprendi a criar as classes Aluno e Turma para representar alunos e uma turma, respectivamente. Na classe Aluno, defini os atributos e implementei métodos para acessá-los, como getters e setters. Também criei um método para calcular a média das notas do aluno. Já na classe Turma, defini os atributos e implementei métodos para acessá-los, como getters e setters. Além disso, implementei métodos para imprimir os alunos da turma e ordenar a lista de alunos por campo específico. No programa principal, criei um objeto da classe Turma, recebi os dados dos alunos do usuário e utilizei os métodos da turma para imprimir a lista de alunos e ordená-la.
 
 As soluções demonstram meu entendimento sobre a manipulação de objetos, alocação dinâmica de memória, criação e utilização de classes, implementação de métodos e organização do código.
