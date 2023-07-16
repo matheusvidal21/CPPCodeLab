@@ -1,4 +1,4 @@
-<img src="Recursividade/docs/cppcodelab.png" alt="Logo C++" height="150" width="600">
+<p align="center"><img src="Recursividade/docs/cppcodelab1.png" alt="Logo C++"></p>
 
 O repositório CPPCodeLab é um espaço dedicado para armazenar e compartilhar todo o meu aprendizado na jornada de programação em C++. Nele, você encontrará uma ampla variedade de desafios e projetos resolvidos, abrangendo conceitos essenciais como Programação Orientada a Objetos (POO), alocação dinâmica de memória, recursividade, manipulação de arquivos, busca binária, algoritmos de ordenação e muito mais. Este repositório serve como um registro do meu progresso e como um recurso valioso para revisar e fortalecer minhas habilidades em C++, além de compartilhar meu conhecimento com outros programadores.
 
