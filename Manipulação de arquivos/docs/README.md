@@ -3,10 +3,10 @@
 Neste conjunto de desafios, trabalhei com a manipulação de arquivos em C++. Cada questão apresenta uma tarefa específica que envolve ler informações de um arquivo de entrada, processar os dados e escrever em um arquivo de saída.
 
 # Desafios propostos
-- 📝 [Desafio 1](#desafio-1-preenchendo-um-vetor-de-strings): Preenchendo um vetor de strings
-- ➕ [Desafio 2](#desafio-2-operações-em-um-vetor-de-inteiros): Operações em um vetor de inteiros
-- 📊 [Desafio 3](#desafio-3-cálculo-de-média-e-situação-dos-alunos): Cálculo de média e situação dos alunos
-- 💰 [Desafio 4](#desafio-5-cálculo-da-folha-de-pagamento-por-departamento): Cálculo da folha de pagamento por departamento
+- 📝 [Desafio 1](#-desafio-1---preenchendo-um-vetor-de-strings): Preenchendo um vetor de strings
+- ➕ [Desafio 2](#-desafio-2---operações-em-um-vetor-de-inteiros): Operações em um vetor de inteiros
+- 📊 [Desafio 3](#-desafio-3---cálculo-de-média-e-situação-dos-alunos): Cálculo de média e situação dos alunos
+- 💰 [Desafio 4](#-desafio-4---cálculo-da-folha-de-pagamento-por-departamento): Cálculo da folha de pagamento por departamento
 
 ## 📝 Desafio 1 - Preenchendo um vetor de strings:
 Escreva um programa em C++ que preencha um vetor de 4 cadeias de caracteres (strings) com informações vindas de um arquivo de entrada e imprima cada elemento do vetor na saída padrão. Considere que cada string representa o nome de uma pessoa qualquer.
