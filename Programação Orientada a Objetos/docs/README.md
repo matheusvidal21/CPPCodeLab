@@ -67,7 +67,7 @@ void ordenaMaior(Funcionario funcionarios[], int size) {
 }
 ```
 
-# classes.cpp
+### classes.cpp
 O arquivo classes.cpp contém a implementação da classe Funcionario. A classe possui um construtor padrão e um construtor com parâmetros nome e salario. Além disso, são implementados os métodos getters e setters para nome e salário, o método aumentarSalario() para aumentar o salário do funcionário com base em um percentual, a sobrecarga do operador ++ para incrementar o salário em 10%, e a sobrecarga do operador << para exibir o objeto Funcionario de forma personalizada. 
 - Acesse a implementação [aqui](../classes.cpp).
 ```cpp
