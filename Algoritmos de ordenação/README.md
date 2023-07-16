@@ -1,6 +1,6 @@
 # 🔄 Algoritmos de ordenação
 
-Esta seção contém implementações de algoritmos de ordenação em C++. Acesse a implementação [aqui](ordenacao.hpp). Os seguintes algoritmos estão disponíveis:
+Esta seção contém implementações de algoritmos de ordenação em C++. Acesse a implementação dos algoritmos [aqui](ordenacao.hpp). Os seguintes algoritmos estão disponíveis:
 
 - [Bubble Sort](#bubble-sort)
 - [Selection Sort](#selection-sort)
