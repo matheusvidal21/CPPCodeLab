@@ -5,12 +5,12 @@ Este desafio consiste em recuperar dados usando classes orientadas a objetos e s
 ## 💼 Classe Funcionario 
 A classe Funcionario representa um funcionário e possui os seguintes métodos:
 
-- Construtor Funcionario(std::string nome, double salario): inicializa um objeto Funcionario com o nome e o salário fornecidos.
-- std::string getNome(): retorna o nome do funcionário.
-- void setNome(std::string nome): define o nome do funcionário.
-- double getSalario(): retorna o salário do funcionário.
-- void setSalario(double salario): define o salário do funcionário.
-- void printFuncionario(): imprime na tela os dados do funcionário.
+- `Funcionario(std::string nome, double salario)`: Construtor que inicializa um objeto Funcionario com o nome e o salário fornecidos.
+- `std::string getNome()`: Retorna o nome do funcionário.
+- `void setNome(std::string nome)`: Define o nome do funcionário.
+- `double getSalario()`: Retorna o salário do funcionário.
+- `void setSalario(double salario)`: Define o salário do funcionário.
+- `void printFuncionario()`: Imprime na tela os dados do funcionário.
 
 ## 🗂️ Função salvarDadosBinarios 
 A função salvarDadosBinarios é responsável por salvar os dados do vetor de objetos Funcionario em um arquivo binário. Ela recebe como parâmetros o vetor de funcionários e o tamanho do vetor.
