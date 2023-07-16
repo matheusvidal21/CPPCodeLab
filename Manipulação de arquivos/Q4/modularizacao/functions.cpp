@@ -1,7 +1,3 @@
-/**
- * @file functions.cpp
- * @brief Arquivo para desenvolver as funções
- */
 #include "functions.h"
 
 using namespace std;
