@@ -3,18 +3,19 @@
 Nesta seção, implementei soluções para desafios de diferentes conceitos e tópicos, incluindo Recursividade, Git, Alocação Dinâmica e POO. Os desafios estão divididos em três questões distintas. Cada questão possui sua própria descrição e detalhes de implementação.
 
 ## Desafios propostos
-- 🧮 [Questão 1](#questão1-sequência-tribonacci:) - Sequência Tribonacci.
-- 🐙 [Questão 2](#questão-2-git-na-prática:) - Git na Prática.
-- 👨‍🎓 [Questão 3](#questão-3-turma-e-alunos:) - Turma e Alunos.
+- 🧮 [Questão 1](#questão1-sequência-tribonacci) - Sequência Tribonacci.
+- 🐙 [Questão 2](#questão-2-git-na-prática) - Git na Prática.
+- 👨‍🎓 [Questão 3](#questão-3-turma-e-alunos) - Turma e Alunos.
 
 
 ## 🧮 Questão 1 - Sequência Tribonacci:
 Implemente as versões recursiva e iterativa do algoritmo de Tribonacci. Os números Tribonacci são definidos pela seguinte recursão:
 
-f(N) = 0, se N = 0
-f(N) = 0, se N = 1
-f(N) = 1, se N = 2
-f(N) = f(N-1) + f(N-2) + f(N-3), se N > 2
+- f(N) = 0, se N = 0
+- f(N) = 0, se N = 1
+- f(N) = 1, se N = 2
+- f(N) = f(N-1) + f(N-2) + f(N-3), se N > 2
+- 
 O objetivo é criar uma função recursiva que receba um número N e retorne o N-ésimo termo da sequência de Tribonacci.
 
 Para mais detalhes e respostas a questões relacionadas à sequência de Tribonacci, consulte a pasta [Q1](../Q1).
