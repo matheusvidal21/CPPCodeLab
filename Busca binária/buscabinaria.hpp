@@ -3,22 +3,11 @@
 #include <iostream>
 
 
-/**
- * @class AlgoritmosDeBuscaBinaria
- * @brief Template de classe para algoritmo de busca binária genérico.
- * @tparam T O tipo de dado a ser buscado.
- */
 template<typename T>
 class AlgoritmosDeBuscaBinaria {
 public:
 
-   /**
-    * @brief Realiza uma busca binária iterativa em uma lista ordenada.
-    * @param arr A lista ordenada.
-    * @param tamanho O tamanho da lista.
-    * @param chave O valor a ser buscado.
-    * @return O índice do valor encontrado ou -1 se não for encontrado.
-    */
+
     static int BuscaBinariaIterativa(T arr[], int tamanho, T chave){
         int inicio = 0;
         int fim = tamanho - 1;
@@ -38,14 +27,6 @@ public:
 
 
 
-   /**
-    * @brief Realiza uma busca binária recursiva em uma lista ordenada.
-    * @param arr A lista ordenada.
-    * @param inicio O índice de início da sublista.
-    * @param fim O índice de fim da sublista.
-    * @param chave O valor a ser buscado.
-    * @return O índice do valor encontrado ou -1 se não for encontrado.
-    */
     static int BuscaBinariaRecursiva(T arr[], int inicio, int fim, T chave){
         if(inicio > fim) return -1;// Retorna -1 se a chave não for encontrada
 

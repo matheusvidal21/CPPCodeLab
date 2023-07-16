@@ -3,27 +3,11 @@
 #include <iostream>
 
 
-/**
- * @class AlgoritmosDeOrdenacao
- * @brief Template de classe para algoritmos de ordenação.
- * @tparam T O tipo de dado a ser ordenado.
- * @details Esta classe contém implementações de algoritmos de ordenação como Bubble Sort (crescente), Selection Sort (decrescente) e Merge Sort (crescente).
- */
 template<typename T>
 class AlgoritmosDeOrdenacao {
 public:
 
-   /**
-    * @brief Ordena a lista de forma crescente usando o Bubble Sort.
-    * @param list A lista a ser ordenada.
-    * @param size O tamanho da lista.
-    *
-    * A complexidade do Bubble Sort é O(n^2), onde "n" é o tamanho da lista a ser ordenada.
-    * Essa é uma complexidade quadrática, o que significa que o tempo de execução aumenta
-    * rapidamente à medida que o tamanho da lista aumenta. A complexidade quadrática do Bubble Sort
-    * ocorre porque, em cada passagem, são feitas comparações entre pares de elementos adjacentes
-    * e, se necessário, são feitas trocas.
-    */
+
     static void bubbleSort(T list[], int size) {
         for (int i = 0; i < size - 1; i++) {
             for (int j = 0; j < size - i - 1; j++) {
@@ -36,16 +20,6 @@ public:
 
 
 
-   /**
-    * @brief Ordena a lista de forma decrescente usando o Selection Sort.
-    * @param list A lista a ser ordenada.
-    * @param size O tamanho da lista.
-    *
-    * A complexidade do Selection Sort também é O(n^2), onde "n" é o tamanho da lista a ser ordenada.
-    * Assim como o Bubble Sort, o Selection Sort possui uma complexidade quadrática. A complexidade
-    * quadrática do Selection Sort ocorre porque, em cada iteração, é necessário percorrer a parte não
-    * ordenada para encontrar o menor elemento.
-    */
     static void selectionSort(T list[], int size) {
         for (int i = 0; i < size - 1; i++) {
             int indice_minimo = i;
@@ -62,17 +36,6 @@ public:
 
 
 
-   /**
-    * @brief Ordena a lista usando o Merge Sort.
-    * @param list A lista a ser ordenada.
-    * @param left O índice de início da sublista.
-    * @param right O índice de fim da sublista.
-    *
-    * A complexidade do Merge Sort é O(n log n), onde "n" é o tamanho da lista a ser ordenada.
-    * Essa é uma complexidade assintótica eficiente e torna o Merge Sort adequado para lidar com
-    * grandes conjuntos de dados. O Merge Sort possui essa complexidade porque o algoritmo divide
-    * repetidamente a lista em duas metades, até que sejam formadas sublistas com apenas um elemento.
-    */
     static void mergeSort(T list[], int left, int right) {
         if (left >= right) {
             return;
@@ -85,15 +48,6 @@ public:
 
 
 
-    /**
-     * @brief Ordena a lista de forma crescente usando o Insertion Sort.
-     * @param list A lista a ser ordenada.
-     * @param size O tamanho da lista.
-     *
-     * O Insertion Sort é um algoritmo de ordenação com complexidade O(n^2) no pior caso,
-     * onde "n" é o tamanho da lista a ser ordenada. Ele percorre a lista da esquerda para
-     * a direita, inserindo cada elemento em sua posição correta na sublista já ordenada.
-     */
     static void insertionSort(T list[], int size) {
         for (int i = 1; i < size; i++) {
             T key = list.get(i);
@@ -108,16 +62,6 @@ public:
 
 
 
-    /**
-     * @brief Ordena a lista usando o Quick Sort.
-     * @param list A lista a ser ordenada.
-     * @param left O índice de início da sublista.
-     * @param right O índice de fim da sublista.
-     *
-     * O Quick Sort é um algoritmo de ordenação eficiente com complexidade média O(n log n),
-     * onde "n" é o tamanho da lista a ser ordenada. Ele escolhe um elemento pivô, particiona
-     * a lista em duas partes e recursivamente ordena as partes antes e depois do pivô.
-     */
     static void quickSort(T list[], int left, int right) {
         if (left < right) {
             int pivotIndex = partition(list, left, right);
@@ -128,13 +72,6 @@ public:
 
 
 
-    /**
-     * @brief Particiona a lista para o Quick Sort.
-     * @param list A lista a ser particionada.
-     * @param left O índice de início da sublista.
-     * @param right O índice de fim da sublista.
-     * @return O índice do pivô após a partição.
-     */
     static int partition(T list[], int left, int right) {
         T pivot = list.get(right);
         int i = left - 1;
@@ -151,13 +88,7 @@ public:
 
 private:
 
-   /**
-    * @brief Combina duas sublistas em uma única lista ordenada.
-    * @param list A lista a ser combinada.
-    * @param left O índice de início da primeira sublista.
-    * @param mid O índice de fim da primeira sublista e início da segunda sublista.
-    * @param right O índice de fim da segunda sublista.
-    */
+
     static void merge(T list[], int left, int mid, int right) {
         int left_size = mid - left + 1;
         int right_size = right - mid;

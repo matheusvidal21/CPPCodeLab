@@ -2,11 +2,11 @@
 
 Esta seção contém implementações do algoritmo de busca binária em C++. Acesse a implementação [aqui](buscabinaria.hpp).
 
-## Sobre a Busca Binária
+## 📋 Sobre a Busca Binária
 A busca binária é um algoritmo eficiente para encontrar um elemento em uma lista ordenada. O processo de busca é dividido pela metade em cada iteração, reduzindo o espaço de busca pela metade a cada passo. Essa abordagem torna a busca binária muito rápida para grandes conjuntos de dados.
 
 
-## Detalhes da Implementação
+## 🛠️ Detalhes da Implementação 
 Este repositório oferece duas versões da busca binária:
 
 ### Busca Binária Iterativa

@@ -1,40 +1,8 @@
-/**
- * @file main.cpp
- * @brief Questão 3) Implemente a turma usando alocação dinâmica para armazenar a lista de Alunos. Teste com pelo menos 5 alunos cadastrados, imprima a listagem antes e depois de ordenar os três campos.
- * @author Matheus Vidal (20220055246)
- * @since 03/05/2022
- * @date 06/05/2022 
- */
 #include <iostream>
 #include <string>
 #include "classes.h"
 using namespace std;
 
-
-/**
- * @brief Função principal do programa.
- *
- * @param argc Número de argumentos passados para o programa.
- * @param argv Vetor de argumentos passados para o programa.
- * @return Retorna 0 em caso de sucesso.
- *
- * @brief Nesses trechos do código são criados os objetos. Alocando dinamicamente um vetor de objetos Aluno e depois criando um objeto Turma, na qual, dentro dela é criado uma lista de alunos (vetor de objetos Aluno)
- * @code
- * int i = 0, numAlunos = 3, pos = 1;
- * Aluno *lista = new Aluno[numAlunos];
- * int matricula = 0, nota1 = 0, nota2 = 0, nota3 = 0;
- * string nome;
- * @endcode
- * 
- * @code
- * Turma *lp = new Turma(3);
- * lp->setLista(lista);
- * cout << endl << "=== Listagem de alunos antes da ordenação ===" << endl;
- * lp->imprimeAlunos();
- * @endcode
-
- * @details Na função main, é recebido uma lista de alunos e criado uma turma com essa lista de alunos, após isso, é possível escolher qual critério utilizar para ordenação (Nome, matrícula ou notas) da turma
- */
 int main() {
   int i = 0, numAlunos, pos = 1;
 
